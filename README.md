@@ -27,6 +27,7 @@ $ pip install pysdl2
 - sshの鍵はrsaで作る（下のssh fsがed25519に対応していない）
 
 # ssh (raspberry pi)
+- macで作成した公開鍵を~/.ssh/authorized_keysに追加する
 - authorized_keysのパーミッションを600にする
 
 # visual studio code (mac)
